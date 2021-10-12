@@ -4,13 +4,12 @@ Recurision Vue 課題
 
 
 ## アプリ概要 
+- Vueを用いたSPAアプリです
 - コンタクトできるユーザーを一覧で表示します
 - 男性・女性でユーザー一覧フィルターできます
 - ユーザー一覧を年齢（若い順)でソートできます
 - ユーザー一覧からユーザーを選択し、その情報が確認できます
 - 気に入ったユーザーを選んでチャットができます（相手の返答は固定です）
-- 一度会話したユーザーの一覧がMessage listページから確認できます
-
-##デモ  
-![Demo]
-(https://github.com/ryo8998/online-dating-app/issues/1)
+- 一度会話したユーザーの一覧がMessage listページから確認できます 
+## デモ 
+![Demo](https://user-images.githubusercontent.com/59432991/136904330-c562cda9-99e1-4e15-868c-949b6d89827c.gif)
